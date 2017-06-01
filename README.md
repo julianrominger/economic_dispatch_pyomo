@@ -1,5 +1,5 @@
 # economic_dispatch_pyomo
-This is the code to solve a simple economic dispatch model using pyomo.
+This is the code to solve a simple economic dispatch model using pyomo. You can read the formulation of the economic dispatch problem in the file economic_dispatch.pdf
 
 You need to have installed in your computer python3, pyomo and the linear solver you want to use (glpk, cplex, gurobi, etc).
 
