@@ -65,10 +65,3 @@ f.write("g,t,gen"+"\n")
 for g in instance.g.value:
   for t in instance.t.value:
     f.write(str(g)+","+str(t)+","+str(instance.gen[g,t].value)+"\n")
-
-
-
-
-
-
-
